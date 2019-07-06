@@ -1,8 +1,10 @@
 # Deep-Cropper
 
+![preview](https://github.com/btahir/Deep-Cropper/blob/master/pic.png)
+
 Photoshop Images Using Deep Learning!
 
-Medium Article: https://towardsdatascience.com/using-image-segmentation-to-photoshop-images-db8c04942747
+Blog Post: https://towardsdatascience.com/using-image-segmentation-to-photoshop-images-db8c04942747
 
 In this new episode of doing fun things with Colab and Python, we will use Deep Learning to crop out objects from one image and paste them on to another.
 
